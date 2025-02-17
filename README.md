@@ -1,3 +1,2 @@
 # primerRepositorio
-Mi primer repositorio
-ayuda 
+🚀 Mi primer repositorio para Entorno de Desarrollo 🚀
